@@ -128,7 +128,8 @@ VPC コンソールで作成・管理できるゲートウェイは以下。
   - 料金：無料
   - ゲートウェイがルーティング
   - 冗長性：AWS 側が対応
-    ![picture 3](images/2e31f55c859d6631d0b01ae556bae51d9486f541d2391684b566838119404362.png)
+
+![picture 3](images/2e31f55c859d6631d0b01ae556bae51d9486f541d2391684b566838119404362.png)
 
 ### プライベートリンク型エンドポイント（インターフェース型）
 
@@ -142,7 +143,8 @@ VPC コンソールで作成・管理できるゲートウェイは以下。
   - 料金：有料
   - IP アドレスを介して接続
   - 冗長性：マルチ AZ 設計
-    ![picture 4](images/a3ef4acad7c85026667b9830cbb7a286878950246d67c88ad0ddf181fd5c1e32.png)
+
+![picture 4](images/a3ef4acad7c85026667b9830cbb7a286878950246d67c88ad0ddf181fd5c1e32.png)
 
 ## VPC Peering
 
@@ -151,7 +153,8 @@ VPC コンソールで作成・管理できるゲートウェイは以下。
 - 異なる AWS アカウント間の VPC 間をピア接続可能
 - 一部のリージョン間の異なる VPC 間のピア接続も可能
 - 単一障害点や帯域幅のボトルネックは存在しない
-  ![picture 5](images/d42e3a64ad5edf19b0d47afe17877ba74fc2182757a6a0e4bfe44ce49bf11b87.png)
+
+![picture 5](images/d42e3a64ad5edf19b0d47afe17877ba74fc2182757a6a0e4bfe44ce49bf11b87.png)
 
 ## VPC オンプレミス接続
 
